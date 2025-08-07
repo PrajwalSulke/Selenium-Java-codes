@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="AutomationExercise Suite">
+    <test name="Login Test">
+        <classes>
+            <class name="Project.AutomationExercise.LoginTest"/>
+            <class name="Project.AutomationExercise.AddToCartTest"/>
+            <class name="Project.AutomationExercise.CheckoutTest"/>
+        </classes>
+    </test>
+</suite>
