@@ -2,8 +2,9 @@
 
 This repository contains Selenium automation test scripts for:
 
-- ✅ **Bhanne Site** (E-commerce or business website)
-- ✅ **OrangeHRM** (Open-source HR management application)
+- **AutomationExercise** ( E-commerce website )
+- **Bhanne Site** (E-commerce or business website)
+- **OrangeHRM** (Open-source HR management application)
 
 ## 🔧 Tools & Technologies Used
 
@@ -15,6 +16,16 @@ This repository contains Selenium automation test scripts for:
 - Git & GitHub
 
 ## 📂 Project Structure
+
+/AutomationExercise
+└── BaseTest.java
+└── LoginTest.java
+└── LoginPage.java
+└── AddToCartTest.java
+└── CheckoutTest.java
+└── testng.xml
+└── Functional_TestCases_AutomationExercise.xlsx
+└── Bug_Report_AutomationExercise.xlsx
 
 /DefineLabs
 └── Bhaane_AddToBagAndCheckout.java
